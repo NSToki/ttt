@@ -1,0 +1,112 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: #560505;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    max-width: 1000px;
+    background-color: darksalmon;
+    margin: 0 auto;
+    padding: 0px;
+}
+.pp{
+    widows: 100px; ;
+    height:120px ;
+    border:3px solid royalblue ;
+    border-radius: 50% ;
+    float: left;
+    padding:3px ;
+}
+.bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: green;
+}
+
+.contract{
+    float: right;
+    margin: 0%;
+    padding: 0px;
+}
+
+.contract a{
+    text-decoration: none;
+    color:blue ;
+    font-weight: bold;
+}
+
+.contract a:hover{
+    text-decoration:underline ;
+    color:yellow ;
+}
+
+.clear{
+    clear: both;
+}
+
+hr{
+    border: solid gray 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+.nationality{
+    height: 60px;
+    width: 100px;
+    border-radius: 70%;
+    float: right;
+}
+
+/*--------PERSONAL SECTION START-----*/
+#"personal-section{
+
+}
+
+*contain{
+
+}
+
+
+.left-div{
+    width: 30%;
+    float: left;
+    color: green;
+
+}
+
+.right-div{
+    width: 70%;
+    float: right;
+    color: rebeccapurple;
+
+}
+.text{
+    background-color:red;
+}
+.common-hr{
+    border: solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20 auto;
+}
+
+.footer{
+    background-color:#F2F2F2;
+    height: 50px;
+    width: 100%;
+}
+
+.footer{
+    border: solid #FFFFFF;
+    border-bottom: none;
+    width: 100%;
+    margin: 20 auto;
+}
